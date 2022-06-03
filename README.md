@@ -18,6 +18,7 @@
 ## FYI
 
 <ul>
+<li> Fastest on cord or if not one of the fastest on cord, ratelimit is dumb so everything sends in intervals of 5.
 <li> Session stops at 30 and then gets locked by rate limit
 <li> Normal requests goes up to 121 and then gets locked by rate limit
 <li> Set to 10 Threads, you can increase but you will be ratelimited faster.
