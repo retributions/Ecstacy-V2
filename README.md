@@ -31,6 +31,13 @@
 </li>
 </ul>
 
+## Replit.com
+1. Choose python
+2. Copy and paste code into main.py
+3. Create proxies.txt
+4. Copy and paste proxies
+5. Go to packages and install "pystyle"
+6. Run the code
 
 ## Preview
 https://user-images.githubusercontent.com/76661840/171928297-e7c02fbd-99b1-42f7-9ec8-c7c72836ecad.mp4
