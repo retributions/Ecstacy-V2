@@ -5,7 +5,7 @@
 </p>
 </h1>
 
-<b> Whats New?<b>
+#Whats New?
  
  <ul>
  <li> Inputs
