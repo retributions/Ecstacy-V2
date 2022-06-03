@@ -25,6 +25,5 @@
 </ul>
 
 ## Preview
-https://user-images.githubusercontent.com/76661840/171927904-d4c83864-ef53-4fbe-b649-53e951f2bd33.mp4
-
+https://user-images.githubusercontent.com/76661840/171928297-e7c02fbd-99b1-42f7-9ec8-c7c72836ecad.mp4
 
