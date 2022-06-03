@@ -27,9 +27,10 @@
 ## Download
 <ul>
 <li> The one labled as requests is the requests one, and the one that isn't labled is the one with session
+<li> https://github.com/retributions/Ecstacy-V2/releases
 </li>
 </ul>
-https://github.com/retributions/Ecstacy-V2/releases
+
 
 ## Preview
 https://user-images.githubusercontent.com/76661840/171928297-e7c02fbd-99b1-42f7-9ec8-c7c72836ecad.mp4
