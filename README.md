@@ -15,9 +15,3 @@
  </li>
 
 ## FYI
- <ul>
- <li> normal requests goes up to 121 and then gets locked by rate limit
- <li> session stops at 30 and then gets locked by rate limit
- <li> 
- <li> 
- </li>
